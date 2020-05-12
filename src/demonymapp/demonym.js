@@ -8,4 +8,5 @@ export default function Demonym(props) {
       A {props.name} comes from {props.country}
     </div>
   );
+  
 }
